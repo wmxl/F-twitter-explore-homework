@@ -6,7 +6,7 @@ $border-radius-base: 8px !default;
 $white: #fff !default;
 $gray-light: #f8f9fa !default;
 $gray: #8899a6 !default;
-$gray-dark: #253341 !default;
+$gray-dark: #163f88 !default;
 $black: #000 !default;
 
 $primary-color: #1991da !default;
@@ -16,3 +16,10 @@ $heading-color: $white !default;
 $link-color: $gray !default;
 $link-hover-color: darken($link-color, 15%) !default;
 $border-color: rgb(61, 84, 102);
+
+$padding-header-y: 40px;
+$padding-header-x: 20px;
+$padding-btn-y: 20px;
+$padding-btn-x: 5px;
+$padding-container-y: 40px;
+$padding-container-x: 40px;

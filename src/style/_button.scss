@@ -1,0 +1,7 @@
+.button_first {
+  @include btn-variant($primary-color, transparent);
+}
+
+.button_last {
+  @include btn-variant($white, $primary-color);
+}
